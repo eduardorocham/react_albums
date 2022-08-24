@@ -1,0 +1,7 @@
+.photo {
+    display: inline-block;
+    margin: 10px;
+    border: 2px solid #000;
+    padding: 10px;
+    cursor: pointer;
+}
